@@ -1,0 +1,40 @@
+body{
+    width: 60%;
+    margin: auto;
+    background-color: rgb(red, green, blue)
+    color azure;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+.header{
+    color: rgb(255, 139, 188)
+}
+.container{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(4, 4, 4);
+}
+
+.info{
+    padding: 50px;
+}
+img{
+    padding: 20px 0px;
+    }
+
+a{
+    color: rgb(251, 162, 217);
+}
+    a hover{
+        background-color:lightsteelblue;
+        color: pink;
+    }
+
+    body{
+        background-color: rgb(247, 39, 167);
+        color: rgb(125, 125, 125);
+    }
+
+      
